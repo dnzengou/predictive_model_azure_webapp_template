@@ -99,7 +99,7 @@
 
         <footer >
             <div class="footerText">                
-                <p >Powered by <strong>Azure Machine Learning</strong></p>   
+                <!--<p >Powered by <strong>Azure Machine Learning</strong></p>-->   
             </div>             
         </footer>
         
