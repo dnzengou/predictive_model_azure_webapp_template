@@ -46,8 +46,8 @@
 </head>
 <body onresize="updateResize()">
     <div class="container azue-header">
-        <div class="jumbotron azue-header" style="background-image: url('Resources/azure-ml.png'); height: 126px; position: relative; padding-top: 10px;">
-            <a href="/">
+        <div class="jumbotron azue-header" style="background-image: url('https://static.pexels.com/photos/356182/pexels-photo-356182.png'); height: 126px; position: relative; padding-top: 10px;">
+            <a href="/"><!-- Resources/azure-ml.png -->
                 <div class="wheel">
                     <wheel></wheel>
                 </div>
@@ -116,7 +116,7 @@
 
                 <div id="footer">
                     <div class="footerText">
-                        <p>Powered by <strong>Azure Machine Learning</strong></p>
+                        <!--<p>Powered by <strong>Azure Machine Learning</strong></p>-->
                     </div>
 
                 </div>
