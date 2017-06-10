@@ -12,6 +12,14 @@
     <meta name="author" content="">
 
     <title></title>
+    
+    <!-- ===========================
+    FONTS & ICONS
+    =========================== -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href='//fonts.googleapis.com/css?family=Kristi|Alegreya+Sans:300' rel='stylesheet' type='text/css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
 
     <!-- Bootstrap core CSS -->
     <link href="CSS/bootstrap.css" rel="stylesheet">
@@ -117,6 +125,9 @@
                 <div id="footer">
                     <div class="footerText">
                         <!--<p>Powered by <strong>Azure Machine Learning</strong></p>-->
+            <p>&copy; 2017 - made with <i class="fa fa-coffee" style="color:brown"></i> and <i class="fa fa-heart" style="color:pink"> by <a href="desireyavro.com"> desireyavro </a></i>
+            </p>
+
                     </div>
 
                 </div>
