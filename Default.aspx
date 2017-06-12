@@ -125,7 +125,7 @@
                 <div id="footer">
                     <div class="footerText">
                         <!--<p>Powered by <strong>Azure Machine Learning</strong></p>-->
-            <p>&copy; 2017 - made with <i class="fa fa-coffee" style="color:brown"></i> and <i class="fa fa-heart" style="color:pink"> by <a href="desireyavro.com"> desireyavro </a></i>
+            <p>&copy; 2017 - made with <i class="fa fa-coffee" style="color:brown"></i> and <i class="fa fa-heart" style="color:pink"></i> by <a href="desireyavro.com"> desireyavro </a></i>
             </p>
 
                     </div>
